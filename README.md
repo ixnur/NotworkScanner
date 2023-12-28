@@ -1,4 +1,4 @@
-# NotworkScanner: Basit bir ağ tarayıcı
+# NotworkScanner: Basit bir ağ tarayıcı :customs:
 
 Bu Python programı, ağ üzerindeki cihazları taramak için kullanılır.
 Kullanıcıya aşağıdaki seçenekleri sunar:
