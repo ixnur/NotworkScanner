@@ -3,14 +3,6 @@
 Bu Python programı, ağ üzerindeki cihazları taramak için kullanılır.
 Kullanıcıya aşağıdaki seçenekleri sunar:
 
-![Ekran Görüntüsü - 2023-12-28 04-21-33](https://github.com/ixnur/NotworkScanner/assets/131625021/241e2583-2a37-451d-8a7a-12503710342f)
-
-![Ekran Görüntüsü - 2023-12-28 04-21-49](https://github.com/ixnur/NotworkScanner/assets/131625021/6664228a-9437-4733-8ddb-74eae38e2e9b)
-
-![3](https://github.com/ixnur/NotworkScanner/assets/131625021/7ec10aab-67f6-4909-a90b-82857aec252b)
-
-![Ekran Görüntüsü - 2023-12-28 04-29-11](https://github.com/ixnur/NotworkScanner/assets/131625021/16f002f5-d16d-481b-8afd-67334d06217c)
-
 # Kullanımı
 1. Cihazları Tara: Ağdaki cihazları taramak için ARP istekleri gönderir.
 2. Cihaz Listesini Göster: Tarama sonuçlarını listeleyerek bulunan cihazları gösterir.
