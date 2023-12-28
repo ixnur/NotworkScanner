@@ -28,8 +28,9 @@ Gerekli Kütüphaneler:
 - scapy: Ağ paketlerini oluşturmak ve analiz etmek için kullanılır.
 - tqdm: İlerleme çubuğunu görüntülemek için kullanılır.
 - 
-gereklilikler.txt var indir yükle baby.
 
+# requirements.txt var indir yükle baby.
+[code]pip install -r requirements.txt[/code]
 Not:
 - Program, scapy ve tqdm kütüphanelerini kullanır. Yüklü değillerse önce yüklemeniz gerekebilir
 ## Programın doğru çalışması için root veya admin yetkilerine ihtiyaç duyabilir.
