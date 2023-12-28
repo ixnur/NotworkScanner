@@ -1,0 +1,3 @@
+scapy==2.4.5
+tqdm==4.62.0
+netifaces==0.11.0
