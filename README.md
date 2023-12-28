@@ -1,5 +1,5 @@
 # NotworkScanner 
-## Basit bir ağ tarayıcı :customs:
+Basit bir ağ tarayıcı :customs:
 
 ![Notwork Scanner](https://github.com/ixnur/NotworkScanner/raw/main/notwork.png)
 
@@ -38,3 +38,5 @@ Not:
 # Geliştirme Durumu
 - **v0.0.1** (28 Aralık 2023)
   - İlk sürüm yayınlandı.
+ 
+*Kopyalamak yasaktır.*
