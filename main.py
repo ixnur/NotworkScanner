@@ -29,10 +29,10 @@ class NetworkScanner:
                                  'hostname': self.get_hostname(received.psrc)})
 
     def get_vendor(self, mac_address):
-        return ''  # Üretici bilgisini almak için gerekli işlemleri ekleyin.
+        return ''  #ekle
 
     def get_hostname(self, ip_address):
-        return ''  # Hostname bilgisini almak için gerekli işlemleri ekleyin.
+        return ''  #ekle
 
     def print_device_list(self):
         print(f"\nBulunan Cihazlar:")
