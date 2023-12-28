@@ -43,7 +43,7 @@ Not:
 - Program, scapy ve tqdm kütüphanelerini kullanır. Yüklü değillerse önce yüklemeniz gerekebilir
 ## Programın doğru çalışması için root veya admin yetkilerine ihtiyaç duyabilir.
 
-# ## Geliştirme Durumu
+# Geliştirme Durumu
 
 - **v1.0.0** (28 Aralık 2023)
   - İlk sürüm yayınlandı.
