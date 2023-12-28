@@ -1,6 +1,6 @@
 
 from scapy.all import ARP, Ether, srp
-from tqdm import tqdm  # tqdm'yi ekledik
+from tqdm import tqdm  
 import platform
 import os
 import netifaces
