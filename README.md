@@ -2,10 +2,13 @@
 
 Bu Python programı, ağ üzerindeki cihazları taramak için kullanılır.
 Kullanıcıya aşağıdaki seçenekleri sunar:
+
+## sırası ile 1 enter 2 yapın listeler 
+
 1. Cihazları Tara: Ağdaki cihazları taramak için ARP istekleri gönderir.
 2. Cihaz Listesini Göster: Tarama sonuçlarını listeleyerek bulunan cihazları gösterir.
 3. Cihaz Bilgilerini Göster: Belirli bir cihazın detaylı bilgilerini gösterir.
-4. Programdan Çık: Programı sonlandırır.
+q. Programdan Çık: Programı sonlandırır.
 
 # Kullanım:
 - Programı çalıştırdığınızda, bir menü görüntülenir.
