@@ -44,6 +44,5 @@ Not:
 ## Programın doğru çalışması için root veya admin yetkilerine ihtiyaç duyabilir.
 
 # Geliştirme Durumu
-
-- **v1.0.0** (28 Aralık 2023)
+- **v0.0.1** (28 Aralık 2023)
   - İlk sürüm yayınlandı.
