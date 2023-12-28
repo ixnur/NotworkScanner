@@ -1,8 +1,10 @@
 # NotworkScanner: Basit bir ağ tarayıcı :customs:
 
+![Notwork Scanner](https://github.com/ixnur/NotworkScanner/raw/main/notwork.png)
+
 Bu Python programı, ağ üzerindeki cihazları taramak için kullanılır.
-Kullanıcıya aşağıdaki seçenekleri sunar:
-https://github.com/ixnur/NotworkScanner/blob/main/notwork.png
+Kullanıcıya aşağıdaki seçenekleri sunar
+
 # Kullanımı
 1. Cihazları Tara: Ağdaki cihazları taramak için ARP istekleri gönderir.
 2. Cihaz Listesini Göster: Tarama sonuçlarını listeleyerek bulunan cihazları gösterir.
