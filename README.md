@@ -25,16 +25,13 @@ q. Programdan Çık: Programı sonlandırır.
 - Ağ taraması sırasında bulunan cihazlar, IP adresi, MAC adresi, üretici ve hostname bilgileriyle birlikte listelenir.
 
 ## Projeyi Çalıştırma
-
-Proje, `pyarmor` kullanılarak şifrelendi. Projeyi çalıştırmak için şu adımları takip edin:
-
 1. Python yüklü değilse [Python'u indirin ve yükleyin](https://www.python.org/downloads/).
 2. Projeyi bilgisayarınıza indirin.
 3. Terminal veya komut istemcisinde projenin bulunduğu dizine gidin.
 4. Proje dizininde şu komutu çalıştırın:
 
    ```bash
-   pyarmor_runtime main.py
+   pyton3 main.py
 
 # requirements.txt var indirmeyi unutmayın.
 pip install -r requirements.txt
