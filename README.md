@@ -6,7 +6,7 @@ Kullanıcıya aşağıdaki seçenekleri sunar:
 
 ![Ekran Görüntüsü - 2023-12-28 04-21-49](https://github.com/ixnur/NotworkScanner/assets/131625021/6664228a-9437-4733-8ddb-74eae38e2e9b)
 
-![3](https://github.com/ixnur/NotworkScanner/assets/131625021/d357fe49-e3ad-40a0-be59-bbf38b4290e0)
+
 
 ![Ekran Görüntüsü - 2023-12-28 04-29-11](https://github.com/ixnur/NotworkScanner/assets/131625021/8794bbd4-42a7-4adc-b015-9f0bb7fb05be)
 
