@@ -29,7 +29,7 @@ Gerekli Kütüphaneler:
 - tqdm: İlerleme çubuğunu görüntülemek için kullanılır.
 - 
 
-# requirements.txt var indir yükle baby.
+# requirements.txt var indirmeyi unutmayın.
 pip install -r requirements.txt
 
 Not:
