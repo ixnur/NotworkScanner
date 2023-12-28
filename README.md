@@ -40,3 +40,12 @@ Not:
   - İlk sürüm yayınlandı.
  
 *Kopyalamak yasaktır.*
+
+## Kopyalanması Yasaktır
+
+Bu proje, tüm hakları saklıdır. Bu projenin kodlarını ve içeriğini izinsiz kullanmak, kopyalamak, çoğaltmak veya dağıtmak yasaktır. Projedeki kodlar, telif hakkına tabidir ve izin alınmadan kullanılamaz. Benzer projelerde bu kodların kullanılması, yasal işlem gerektirebilir. Kodlarım düzenli olarak yapay zeka araçları ile taranmaktadır.
+
+© 2023 [ixnur]
+
+---
+*Bu proje, [MIT lisansı](LICENSE) altında lisanslanmıştır.*
