@@ -30,7 +30,8 @@ Gerekli Kütüphaneler:
 - 
 
 # requirements.txt var indir yükle baby.
-[code]pip install -r requirements.txt[/code]
+pip install -r requirements.txt
+
 Not:
 - Program, scapy ve tqdm kütüphanelerini kullanır. Yüklü değillerse önce yüklemeniz gerekebilir
 ## Programın doğru çalışması için root veya admin yetkilerine ihtiyaç duyabilir.
